@@ -1,3 +1,3 @@
-This is the repo of the CEC 2023 workshop.
+This is the landing page for the CEC workshop.
 
-Visit https://cec23.github.io
+Visit https://cecf.github.io
